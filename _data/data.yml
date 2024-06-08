@@ -100,36 +100,26 @@ certifications:
     - name: Network + 
       start: 2020
       end: 2021
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
+      organization: Cisco
+      credentialurl: www.cisco.com
+      credentialname: Cisco
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur.
+        Network+ and CCNA..CCIE.
 
-  title: Certifications
   list:
     - name: Lpic1 &2  
       start: 2023
       end: 2023
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur.
+        lpic and linux courses by jadi mirmirani and asra institute.
 
-  title: Certifications
   list:
     - name: Docker  
       start: 2023
       end: 2024
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
+      credentialurl: www.udemy.com
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur.
+        Docker Course my maximillian at udemy.com.
 
 projects:
   title: Projects
@@ -139,6 +129,11 @@ projects:
     - title: Tagmond
       link: "https://tagmond.com/"
       tagline: "clothing online shop."
+
+  assignments:
+    - title: ITC
+      link: "https://tagmond.com/"
+      tagline: "MTN Irancell Administrative bureaucracy"
 
 oss:
   title: OSS Contributions
@@ -151,7 +146,7 @@ oss:
 
     - title: Sharif EE Department Website
       link: "https://github.com/senaxor/web_site"
-      tagline:  website for EE departent profs in sharif university of technology.
+      tagline:  website for Sharif EE department profs.
 
     - title: Sharif Ranking
       link: "https://github.com/senaxor/Sharif-Ranking"
