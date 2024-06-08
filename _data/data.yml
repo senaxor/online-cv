@@ -54,7 +54,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Working hard..
+    More than 3 years as a oss soldier
+    we keep Working hard.. 
+    Trust me :)
 education:
   title: Education
   info:
@@ -106,14 +108,12 @@ certifications:
       details: |
         Network+ and CCNA..CCIE.
 
-  list:
     - name: Lpic1 &2  
       start: 2023
       end: 2023
       details: |
         lpic and linux courses by jadi mirmirani and asra institute.
 
-  list:
     - name: Docker  
       start: 2023
       end: 2024
@@ -124,7 +124,7 @@ certifications:
 projects:
   title: Projects
   intro: >
-    main projects
+     Main projects
   assignments:
     - title: Tagmond
       link: "https://tagmond.com/"
@@ -132,7 +132,6 @@ projects:
 
   assignments:
     - title: ITC
-      link: "https://tagmond.com/"
       tagline: "MTN Irancell Administrative bureaucracy"
 
 oss:
@@ -190,4 +189,4 @@ skills:
 
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://ee.sharif.edu/~vahid.ansari" target="_blank" rel="nofollow">Senaxor</a>
