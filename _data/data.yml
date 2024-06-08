@@ -51,22 +51,20 @@ sidebar:
       - item: Snowboarding
         link:
 
+      - item: Playing guitar
+        link:
+
       - item: Cooking
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Working hard
 education:
   title: Education
   info:
-    - degree: BSc in Computer Science
+    - degree: BSc in Electrical Engineering
       university: Sharif University of Technology
       time: 2020 - 2024
       details: |
@@ -93,8 +91,8 @@ experiences:
   title: Experiences
   info:
     - role: Full Stack developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2021 - Present
+      company: Tagmond, Tehran
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -182,84 +180,51 @@ projects:
       link: "#hook"
       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    list of my open source software contributions.
   contributions:
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Natas
+      link: "https://github.com/senaxor/natas"
+      tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: Sharif EE Department Website
+      link: "https://github.com/senaxor/Sharif-Ranking"
+      tagline:  website for EE departent profs in sharif university of technology.
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    You can see the list of articles in which I collaborated below.
   papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
+    - title: Investigating causal relationships between cardiovascular signals using effective connectivity assessment measures
+      link: "https://ieeexplore.ieee.org/document/10488641/"
+      authors: Shaghayegh Bahrami, Vahid Ansari , Mohammad Bagher Shamsollahi
       conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Python & Django
-      level: 98%
-
-    - name: Javascript & jQuery
-      level: 98%
-
-    - name: Angular
-      level: 98%
-
-    - name: HTML5 & CSS
-      level: 95%
-
     - name: Ruby on Rails
+      level: 93%
+
+    - name: Vue.js
+      level: 80%
+
+    - name: Docker
       level: 85%
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: Golang
+      level: 67%
+
+    - name: Css & Tailwind
+      level: 95%
+    
+    - name: Linux & Shell scripting
+      level: 99%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
