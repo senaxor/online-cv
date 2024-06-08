@@ -17,15 +17,15 @@ sidebar:
   phone: 0935 122 5928
   timezone: Iran/Tehran Timezone
   citizenship:
-  website: ee.sharif.edu/~vahid.ansari #do not add http://
+  # website: ee.sharif.edu/~vahid.ansari #do not add http://
   linkedin: vahid-ansari-a98199216
   # xing: alandoe
   github: senaxor
-  telegram: senaxor # add your nickname without '@' sign
+  # telegram: senaxor # add your nickname without '@' sign
   # gitlab:
   # bitbucket:
   # twitter: "@webjeda"
-  # stack-overflow: # Number/Username, e.g. 123456/alandoe
+  stack-overflow:  24992121/vahid-ansari
   codewars: senaxor
   # goodreads: # Number-Username, e.g. 123456-alandoe
   pdf: http://www.africau.edu/images/default/sample.pdf
@@ -54,7 +54,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    More than 3 years working as a oss soldier
+    I do have 23 years old and have More than 3 years working as a oss soldier
     we keep Working hard.. 
     Trust me :)
 education:
