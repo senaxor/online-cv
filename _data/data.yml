@@ -39,9 +39,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-      # - idiom: Spanish
-      # level: Professional
-
   interests:
     title: Interests
     info:
@@ -51,16 +48,13 @@ sidebar:
       - item: Snowboarding
         link:
 
-      - item: Playing guitar
-        link:
-
       - item: Cooking
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Working hard
+    Working hard..
 education:
   title: Education
   info:
@@ -68,70 +62,42 @@ education:
       university: Sharif University of Technology
       time: 2020 - 2024
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        with the ranking of 94 in National University Entrance Exam(Konkour) I started studing at EE department in sharif university of
+        technology.
+          - Rank 94 @ konkour :)
+          - Electrical Engineering
     - degree: BSc in Computer Science
       university: Sharif University of Technology
       time: 2021 - 2024
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        with having high scores I could have CS as my minor field at SUT.
+          - Computer Science
 
 experiences:
   title: Experiences
   info:
-    - role: Full Stack developer
-      time: 2021 - Present
+    - role: Full Stack Developer
+      time: 2023 - Present
       company: Tagmond, Tehran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Tagmond, Tehran
+        ruby on rails + vue.js dev at tagmond.com.
+          - Ruby on Rails
+          - Vue
+          - Network
+
+    - role: Backend Developer
+      time: 2021-2023
+      company: Arianalabs, Tehran
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Ariana, Tehran
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        2 years working as a ruby on rails backend developer,
+        developing various MTN Irancell projects like ifood, itc & insurance.
+          - Ruby on Rails
+          - Vanila Js
 
 certifications:
   title: Certifications
   list:
-    - name: CV Builder
+    - name: Network + 
       start: 2020
       end: 2021
       organization: Microsoft
@@ -139,46 +105,40 @@ certifications:
       credentialurl: www.google.com
       credentialname: Google
       details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+        Details about cert. Lorem ipsum dolor sit amet, consectetur.
 
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
-      end:
+  title: Certifications
+  list:
+    - name: Lpic1 &2  
+      start: 2023
+      end: 2023
       organization: Microsoft
       credentialid: 111-222
-      credentialurl: www.github.com
-      credentialname: Github
+      credentialurl: www.google.com
+      credentialname: Google
       details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
+        Details about cert. Lorem ipsum dolor sit amet, consectetur.
+
+  title: Certifications
+  list:
+    - name: Docker  
+      start: 2023
+      end: 2024
+      organization: Microsoft
+      credentialid: 111-222
+      credentialurl: www.google.com
+      credentialname: Google
+      details: |
+        Details about cert. Lorem ipsum dolor sit amet, consectetur.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    main projects
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: Tagmond
+      link: "https://tagmond.com/"
+      tagline: "clothing online shop."
 
 oss:
   title: OSS Contributions
@@ -190,8 +150,12 @@ oss:
       tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
 
     - title: Sharif EE Department Website
-      link: "https://github.com/senaxor/Sharif-Ranking"
+      link: "https://github.com/senaxor/web_site"
       tagline:  website for EE departent profs in sharif university of technology.
+
+    - title: Sharif Ranking
+      link: "https://github.com/senaxor/Sharif-Ranking"
+      tagline: website created for sharif students to check thier ranking.
 
 
 publications:
@@ -225,6 +189,10 @@ skills:
     
     - name: Linux & Shell scripting
       level: 99%
+
+    - name: Network & Socket prog.
+      level: 87%
+
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
