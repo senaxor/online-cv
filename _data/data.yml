@@ -184,10 +184,10 @@ publications:
       conference: Addison-Wesley, 1968
 
 skills:
-  title: <a href="apple.com">Skills &amp; Proficiency</a>
+  title: Skills &amp; Proficiency
 
   toolset:
-    - name: Ruby on Rails
+    - name: <span style="hover:font-weight:bold;">Ruby on Rails</span>
       level: 93%
 
     - name: Vue.js
@@ -201,6 +201,9 @@ skills:
 
     - name: Css & Tailwind
       level: 95%
+
+    - name: SEO Concepts
+      level: 70%
     
     - name: Linux & Shell scripting
       level: 99%
