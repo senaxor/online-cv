@@ -60,16 +60,8 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: BSc in Electrical Engineering
-      university: Sharif University of Technology
-      time: 2020 - 2024
-      details: |
-        with the ranking of 94 in National University Entrance Exam(Konkour) I started studing at EE department in sharif university of
-        technology.
-          - Rank 94 @ konkour :)
-          - Electrical Engineering
     - degree: BSc in Computer Science
-      university: Sharif University of Technology
+      university: Sharif University of Technology(Ranking 94)
       time: 2021 - 2024
       details: |
         with having high scores I could have CS as my minor field at SUT.
