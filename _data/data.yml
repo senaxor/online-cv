@@ -97,7 +97,8 @@ experiences:
         2 years working as a ruby on rails backend developer,
         developing various MTN Irancell projects like ifood, itc & insurance.
           - Ruby on Rails
-          - SQL DB
+          - Docker
+          - oracle,postgres,redis
           - CRUD
           - Vanilla Js
 
@@ -190,8 +191,8 @@ skills:
     - name: Ruby on Rails
       level: 93%
 
-    - name: Vue.js
-      level: 80%
+    - name: Microservice
+      level: 50%
 
     - name: Docker
       level: 85%
@@ -199,11 +200,20 @@ skills:
     - name: Golang
       level: 67%
 
+    - name: Go-Kit
+      level: 50%
+
+    - name: Vue.js
+      level: 80%
+
     - name: Css & Tailwind
       level: 95%
 
     - name: SEO Concepts
       level: 70%
+
+    - name: Git
+      level: 100%
     
     - name: Linux & Shell scripting
       level: 99%
