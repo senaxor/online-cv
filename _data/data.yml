@@ -200,6 +200,9 @@ skills:
     - name: Golang
       level: 67%
 
+    - name: gRPC
+      level: 40%
+
     - name: Go-Kit
       level: 50%
 
