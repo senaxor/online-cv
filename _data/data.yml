@@ -54,7 +54,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I do have 23 years old and have More than 3 years working as a oss defendant
+    I am 23 years old and have More than 4 years working as a oss defendant
     we keep Working hard.. 
     Trust me :)
 education:
@@ -82,9 +82,12 @@ experiences:
       time: 2023 - Present
       company: Tagmond, Tehran
       details: |
-        ruby on rails + vue.js dev at tagmond.com.
+        Its been a year working as ruby on rails + vue.js dev at tagmond.com.
+        familiar with Latest Vite,responsive design,state managment, Pinia, Vue router and axios,
+        Rest Apis,
           - Ruby on Rails
           - Vue
+          - Tailwind css
           - Network
 
     - role: Backend Developer
@@ -94,7 +97,18 @@ experiences:
         2 years working as a ruby on rails backend developer,
         developing various MTN Irancell projects like ifood, itc & insurance.
           - Ruby on Rails
-          - Vanila Js
+          - SQL DB
+          - CRUD
+          - Vanilla Js
+
+    - role: C++ Internship
+      time: 2021-2021
+      company: Ditel
+      details: |
+        3 months learning..
+          - C++
+          - Optimizing Algorithem
+          - Data Structure & Algorithem
 
 certifications:
   title: Certifications
@@ -133,6 +147,10 @@ projects:
     - title: ITC
       tagline: "MTN Irancell Administrative bureaucracy"
 
+    - title: Vue from scratch
+      link: "https://github.com/senaxor/Vue.git"
+      tagline: Vue component for online shop.
+
 oss:
   title: OSS Contributions
   intro: >
@@ -150,6 +168,10 @@ oss:
       link: "https://github.com/senaxor/Sharif-Ranking"
       tagline: website created for sharif students to check thier ranking.
 
+    - title: Sharif Ranking
+      link: "https://github.com/senaxor/Vue.git"
+      tagline: website created for sharif students to check thier ranking.
+
 
 publications:
   title: Publications
@@ -162,7 +184,7 @@ publications:
       conference: Addison-Wesley, 1968
 
 skills:
-  title: Skills &amp; Proficiency
+  title: <a href="apple.com">Skills &amp; Proficiency</a>
 
   toolset:
     - name: Ruby on Rails
