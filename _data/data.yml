@@ -60,12 +60,17 @@ career-profile:
 education:
   title: Education
   info:
-    - degree: BSc in Computer Science
+    - degree: BSc in Electrical Engineering
       university: Sharif University of Technology(Ranking 94)
       time: 2020 - 2024
       details: |
-        with having high scores I could have CS as my minor field at SUT.
-          - Computer Science
+        
+
+    - degree: Minor in Computer Science
+      university: Sharif University of Technology
+      time: 2021 - 2024
+      details: |
+        
 
 experiences:
   title: Experiences
@@ -173,7 +178,7 @@ publications:
   papers:
     - title: Investigating causal relationships between cardiovascular signals using effective connectivity assessment measures
       link: "https://ieeexplore.ieee.org/document/10488641/"
-      authors: Shaghayegh Bahrami, Vahid Ansari , Mohammad Bagher Shamsollahi
+      authors: <a href="https://www.linkedin.com/in/shaghayegh-bahrami-273469250/">Shaghayegh Bahrami<a>,<a href="https://www.linkedin.com/in/vahid-ansari-a98199216/"> Vahid Ansari <a>, Mohammad Bagher Shamsollahi
       conference: Addison-Wesley, 1968
 
 skills:
@@ -183,38 +188,26 @@ skills:
     - name: Ruby on Rails
       level: 93%
 
-    - name: Microservice
-      level: 50%
-
     - name: Docker
       level: 85%
 
-    - name: Golang
-      level: 67%
-
-    - name: gRPC
-      level: 40%
-
-    - name: Go-Kit
-      level: 50%
-
     - name: Vue.js
       level: 80%
+
+    - name: NUXT.js
+      level: 90%
 
     - name: Css & Tailwind
       level: 95%
 
     - name: SEO Concepts
-      level: 70%
+      level: 55%
 
     - name: Git
       level: 100%
     
     - name: Linux & Shell scripting
       level: 99%
-
-    - name: Network & Socket prog.
-      level: 87%
 
 
 footer: >
