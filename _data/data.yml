@@ -138,6 +138,10 @@ projects:
   intro: >
      Main projects
   assignments:
+    - title: Beausha
+      link: "https://beausha.com/"
+      tagline: "Fully functional Online shop developed by ME and only ME[Technologies: Rails, Elastic, Nuxt(ssr), ..]"
+
     - title: Tagmond
       link: "https://tagmond.com/"
       tagline: "clothing online shop."
