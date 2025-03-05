@@ -54,7 +54,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am 23 years old and have More than 4 years working as a oss defendant
+    I am 23 years old and have More than 5 years working as a oss defendant
     we keep Working hard.. 
     Trust me :)
 education:
@@ -79,13 +79,14 @@ experiences:
       time: 2023 - Present
       company: Tagmond, Tehran
       details: |
-        Its been a year working as ruby on rails + vue.js dev at tagmond.com.
+        Its been 2 years working as ruby on rails + vue.js dev at tagmond.com.
         familiar with Latest Vite,responsive design,state managment, Pinia, Vue router and axios,
         Rest Apis,
-          - Ruby on Rails
-          - Vue
+          - <strong> Ruby on Rails </strong>
+          - <strong> Elastic Search </strong>
+          - Docker
+          - Vue, Nuxt3, vuetify
           - Tailwind css
-          - Network
 
     - role: Backend Developer
       time: 2021-2023
@@ -111,6 +112,15 @@ experiences:
 certifications:
   title: Certifications
   list:
+    - name: Embedded I 
+      start: 2020
+      end: 2021
+      organization: Anisa
+      credentialurl: https://anisa.co.ir/
+      credentialname: Anisa
+      details: |
+        By Mr. Nasser Afshin.
+
     - name: Network + 
       start: 2020
       end: 2021
@@ -201,6 +211,9 @@ skills:
     - name: NUXT.js
       level: 90%
 
+    - name: Vuetify
+      level: 90%
+    
     - name: Css & Tailwind
       level: 95%
 
