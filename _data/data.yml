@@ -4,8 +4,8 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Vahid Ansari
@@ -14,21 +14,21 @@ sidebar:
 
   # Sidebar links
   email: vahid.ansari00108@gmail.com
-  phone: 0935 122 5928
+  phone: +98 935 122-5928
   timezone: Iran/Tehran Timezone
-  citizenship:
+  # citizenship:
   # website: ee.sharif.edu/~vahid.ansari #do not add http://
-  linkedin: vahid-ansari-a98199216
+  # linkedin: vahid-ansari-a98199216
   # xing: alandoe
-  github: senaxor
+  # github: senaxor
   # telegram: senaxor # add your nickname without '@' sign
   # gitlab:
   # bitbucket:
   # twitter: "@webjeda"
-  stack-overflow:  24992121/vahid-ansari
-  codewars: senaxor
+  # stack-overflow: 24992121/vahid-ansari
+  # codewars: senaxor
   # goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: http://www.africau.edu/images/default/sample.pdf
+  # pdf: http://www.africau.edu/images/default/sample.pdf
 
   languages:
     title: Languages
@@ -45,187 +45,153 @@ sidebar:
       - item: Playing Game
         link:
 
-      - item: Snowboarding
-        link:
+      # - item: Snowboarding
+      #   link:
 
-      - item: Cooking
-        link:
+      # - item: Cooking
+      #   link:
 
-career-profile:
-  title: Career Profile
-  summary: |
-    I am 23 years old and have More than 5 years working as a oss defendant
-    we keep Working hard.. 
-    Trust me :)
+# career-profile:
+#   title: Career Profile
+#   summary: |
+#     I am 23 years old and have More than 5 years working as a oss defendant
+#     we keep Working hard.. 
+#     Trust me :)
 education:
   title: Education
   info:
     - degree: BSc in Electrical Engineering
-      university: Sharif University of Technology(Ranking 94)
-      time: 2020 - 2024
-      details: |
-        
-
-    - degree: Minor in Computer Science
       university: Sharif University of Technology
-      time: 2021 - 2024
-      details: |
-        
+      time: 2020 - May 2025
+      details: | 
+        Ranked 94th nationally among 150,000+ entrance exam takers
 
 experiences:
   title: Experiences
   info:
     - role: Full Stack Developer
-      time: 2023 - Present
-      company: Tagmond, Tehran
+      time: 2022 - Present
+      company: Tagmond (E-commerce Platform) | 2022–Present
       details: |
-        Its been 2 years working as ruby on rails + vue.js dev at tagmond.com.
-        familiar with Latest Vite,responsive design,state managment, Pinia, Vue router and axios,
-        Rest Apis,
-          - <strong> Ruby on Rails </strong>
-          - <strong> Elastic Search </strong>
-          - Docker
-          - Vue, Nuxt3, vuetify
-          - Tailwind css
+        Develop and maintain web applications for an e-commerce platform.
+          - Implement frontend/backend solutions using modern frameworks.
 
-    - role: Backend Developer
-      time: 2021-2023
-      company: Arianalabs, Tehran
-      details: |
-        2 years working as a ruby on rails backend developer,
-        developing various MTN Irancell projects like ifood, itc & insurance.
-          - Ruby on Rails
-          - Docker
-          - oracle,postgres,redis
-          - CRUD
-          - Vanilla Js
 
-    - role: C++ Internship
-      time: 2021-2021
-      company: Ditel
-      details: |
-        3 months learning..
-          - C++
-          - Optimizing Algorithem
-          - Data Structure & Algorithem
+# certifications:
+#   title: Certifications
+#   list:
+    # - name: Embedded I
+    #   start: 2020
+    #   end: 2021
+    #   organization: Anisa
+    #   credentialurl: https://anisa.co.ir/
+    #   credentialname: Anisa
+    #   details: |
+    #     By Mr. Nasser Afshin.
 
-certifications:
-  title: Certifications
-  list:
-    - name: Embedded I 
-      start: 2020
-      end: 2021
-      organization: Anisa
-      credentialurl: https://anisa.co.ir/
-      credentialname: Anisa
-      details: |
-        By Mr. Nasser Afshin.
+    # - name: Network +
+    #   start: 2020
+    #   end: 2021
+    #   organization: Cisco
+    #   credentialurl: www.cisco.com
+    #   credentialname: Cisco
+    #   details: |
+    #     Network+ and CCNA..CCIE.
 
-    - name: Network + 
-      start: 2020
-      end: 2021
-      organization: Cisco
-      credentialurl: www.cisco.com
-      credentialname: Cisco
-      details: |
-        Network+ and CCNA..CCIE.
+    # - name: Lpic1 &2
+    #   start: 2023
+    #   end: 2023
+    #   details: |
+    #     lpic and linux courses by jadi mirmirani and asra institute.
 
-    - name: Lpic1 &2  
-      start: 2023
-      end: 2023
-      details: |
-        lpic and linux courses by jadi mirmirani and asra institute.
+    # - name: Docker
+    #   start: 2023
+    #   end: 2024
+    #   credentialurl: www.udemy.com
+    #   details: |
+    #     Docker Course my maximillian at udemy.com.
 
-    - name: Docker  
-      start: 2023
-      end: 2024
-      credentialurl: www.udemy.com
-      details: |
-        Docker Course my maximillian at udemy.com.
+# projects:
+#   title: Projects
+#   # intro: >
+#   #   Main projects
+#   assignments:
+#     - title: Beausha
+#       link: "https://beausha.com/"
+#       tagline: "Fully functional Online shop developed by ME"
 
-projects:
-  title: Projects
-  intro: >
-     Main projects
-  assignments:
-    - title: Beausha
-      link: "https://beausha.com/"
-      tagline: "Fully functional Online shop developed by ME and only ME[Technologies: Rails, Elastic, Nuxt(ssr), ..]"
+    # - title: Tagmond
+    #   link: "https://tagmond.com/"
+    #   tagline: "clothing online shop."
 
-    - title: Tagmond
-      link: "https://tagmond.com/"
-      tagline: "clothing online shop."
+    # - title: Vue from scratch
+    #   link: "https://github.com/senaxor/Vue.git"
+    #   tagline: Vue component for online shop.
 
-    - title: ITC
-      tagline: "MTN Irancell Administrative bureaucracy"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     list of my open source software contributions.
+#   contributions:
+    # - title: Natas
+    #   link: "https://github.com/senaxor/natas"
+    #   tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
 
-    - title: Vue from scratch
-      link: "https://github.com/senaxor/Vue.git"
-      tagline: Vue component for online shop.
+    # - title: Sharif EE Department Website
+    #   link: "https://github.com/senaxor/web_site"
+    #   tagline: website for Sharif EE department profs.
 
-oss:
-  title: OSS Contributions
-  intro: >
-    list of my open source software contributions.
-  contributions:
-    - title: Natas
-      link: "https://github.com/senaxor/natas"
-      tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
+    # - title: Sharif Ranking
+    #   link: "https://github.com/senaxor/Sharif-Ranking"
+    #   tagline: website created for sharif students to check thier ranking.
 
-    - title: Sharif EE Department Website
-      link: "https://github.com/senaxor/web_site"
-      tagline:  website for Sharif EE department profs.
-
-    - title: Sharif Ranking
-      link: "https://github.com/senaxor/Sharif-Ranking"
-      tagline: website created for sharif students to check thier ranking.
-
-    - title: SoundSeyf
-      link: "https://github.com/AisDisappeared/soundseyf.git"
-      tagline: Music Website
-
+    # - title: SoundSeyf
+    #   link: "https://github.com/AisDisappeared/soundseyf.git"
+    #   tagline: Music Website
 
 publications:
   title: Publications
-  intro: |
-    You can see the list of articles in which I collaborated below.
+  # intro: |
+  #   You can see the list of articles in which I collaborated below.
   papers:
     - title: Investigating causal relationships between cardiovascular signals using effective connectivity assessment measures
       link: "https://ieeexplore.ieee.org/document/10488641/"
-      authors: <a href="https://www.linkedin.com/in/shaghayegh-bahrami-273469250/">Shaghayegh Bahrami</a>,<a href="https://www.linkedin.com/in/mohammad-bagher-shamsollahi-934a95130/"> Mohammad Bagher Shamsollahi</a>,<a href="https://www.linkedin.com/in/vahid-ansari-a98199216/"> Vahid Ansari </a>
+      authors: <strong>Shaghayegh Bahrami</strong>, <strong>Mohammad Bagher Shamsollahi</strong>, <strong>Vahid Ansari</strong>
       conference: ICMBE at Sharif University - 2023
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Soft Skills 
+  # &amp; Proficiency
 
   toolset:
-    - name: Ruby on Rails
-      level: 93%
+    
 
-    - name: Docker
+    - name: Team Working
       level: 85%
 
-    - name: Vue.js
+    - name: Time Management
       level: 80%
 
-    - name: NUXT.js
-      level: 90%
+    - name: Flexibility
+      level: 80%
 
-    - name: Vuetify
-      level: 90%
-    
-    - name: Css & Tailwind
-      level: 95%
+    # - name: Ruby on Rails
+    #   level: 93%
 
-    - name: SEO Concepts
-      level: 55%
+    # - name: Vuetify
+    #   level: 90%
 
-    - name: Git
-      level: 100%
-    
-    - name: Linux & Shell scripting
-      level: 99%
+    # - name: Css & Tailwind
+    #   level: 95%
 
+    # - name: SEO Concepts
+    #   level: 55%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://ee.sharif.edu/~vahid.ansari" target="_blank" rel="nofollow">Senaxor</a>
+    # - name: Git
+    #   level: 100%
+
+    # - name: Linux & Shell scripting
+    #   level: 99%
+
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://ee.sharif.edu/~vahid.ansari" target="_blank" rel="nofollow">Senaxor</a>
