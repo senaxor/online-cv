@@ -175,10 +175,10 @@ skills:
 
   toolset:
     - name: Team Working
-      level: 100%
+      # level: 100%
 
     - name: Time Management
-      level: 100%
+      # level: 100%
 
     # - name: Flexibility
     #   level: 80%
