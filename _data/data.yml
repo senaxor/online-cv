@@ -9,23 +9,23 @@ sidebar:
 
   # Profile information
   name: Vahid Ansari
-  tagline: Full Stack Developer
+  tagline: Software Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: vahid.ansari00108@gmail.com
-  phone: +98 935 122-5928
-  timezone: Iran/Tehran Timezone
+  # timezone: Iran/Tehran Timezone
   # citizenship:
   # website: ee.sharif.edu/~vahid.ansari #do not add http://
   # linkedin: vahid-ansari-a98199216
   # xing: alandoe
-  # github: senaxor
+  github: senaxor
+  phone: +98 935 122-5928
   # telegram: senaxor # add your nickname without '@' sign
   # gitlab:
   # bitbucket:
   # twitter: "@webjeda"
-  # stack-overflow: 24992121/vahid-ansari
+  stack-overflow: 24992121/vahid-ansari
   # codewars: senaxor
   # goodreads: # Number-Username, e.g. 123456-alandoe
   # pdf: http://www.africau.edu/images/default/sample.pdf
@@ -55,61 +55,71 @@ sidebar:
 #   title: Career Profile
 #   summary: |
 #     I am 23 years old and have More than 5 years working as a oss defendant
-#     we keep Working hard.. 
+#     we keep Working hard..
 #     Trust me :)
 education:
   title: Education
   info:
     - degree: BSc in Electrical Engineering
-      university: Sharif University of Technology
-      time: 2020 - May 2025
-      details: | 
-        Ranked 94th nationally among 150,000+ entrance exam takers
+      university: <img src="assets/images/logo_sharif.png" height=50 weidth=50> Sharif University of Technology
+      time: 2020 - June 2025
+      details: |
+        Ranked 94th nationally among 180,000+ entrance exam takers
 
 experiences:
   title: Experiences
   info:
-    - role: Full Stack Developer
-      time: 2022 - Present
-      company: Tagmond (E-commerce Platform) | 2022–Present
+    - role: Software Engineer
+      # time: 2022 - 20
+      company: Tagmond (E-commerce Platform) #| 2022–Present
       details: |
         Develop and maintain web applications for an e-commerce platform.
           - Implement frontend/backend solutions using modern frameworks.
+          - Golang, Docker, PostgreSQL, Redis, AWS
 
+    - role: Backend Developer
+      # time: 2022 - 20
+      company: Arianalabs #| 2022–Present
+      details: |
+        Contributed to the development and maintenance of enterprise mobile and web applications for MTN Irancell, one of the largest telecom operators in the Middle East.
+          - Ruby on Rails, MySQL, Elasticsearch
 
-# certifications:
-#   title: Certifications
-#   list:
-    # - name: Embedded I
-    #   start: 2020
-    #   end: 2021
-    #   organization: Anisa
-    #   credentialurl: https://anisa.co.ir/
-    #   credentialname: Anisa
-    #   details: |
-    #     By Mr. Nasser Afshin.
+certifications:
+  title: Certifications
+  list:
+# - name: Embedded I
+#   start: 2020
+#   end: 2021
+#   organization: Anisa
+#   credentialurl: https://anisa.co.ir/
+#   credentialname: Anisa
+#   details: |
+#     By Mr. Nasser Afshin.
 
-    # - name: Network +
-    #   start: 2020
-    #   end: 2021
-    #   organization: Cisco
-    #   credentialurl: www.cisco.com
-    #   credentialname: Cisco
-    #   details: |
-    #     Network+ and CCNA..CCIE.
+  # - name: Network +
+  #   start: 2020
+  #   end: 2021
+  #   organization: Cisco
+  #   credentialurl: www.cisco.com
+  #   credentialname: Cisco
+  #   details: |
+  #     Network+ and CCNA..CCIE.
 
-    # - name: Lpic1 &2
-    #   start: 2023
-    #   end: 2023
-    #   details: |
-    #     lpic and linux courses by jadi mirmirani and asra institute.
+   - name: Lpic I
+     details: |
+      Anisa Ins Iran Linux House.
 
-    # - name: Docker
-    #   start: 2023
-    #   end: 2024
-    #   credentialurl: www.udemy.com
-    #   details: |
-    #     Docker Course my maximillian at udemy.com.
+   - name: Lpic II
+     details: |
+      Anisa Ins Iran Linux House.
+    
+
+# - name: Docker
+#   start: 2023
+#   end: 2024
+#   credentialurl: www.udemy.com
+#   details: |
+#     Docker Course my maximillian at udemy.com.
 
 # projects:
 #   title: Projects
@@ -120,34 +130,34 @@ experiences:
 #       link: "https://beausha.com/"
 #       tagline: "Fully functional Online shop developed by ME"
 
-    # - title: Tagmond
-    #   link: "https://tagmond.com/"
-    #   tagline: "clothing online shop."
+# - title: Tagmond
+#   link: "https://tagmond.com/"
+#   tagline: "clothing online shop."
 
-    # - title: Vue from scratch
-    #   link: "https://github.com/senaxor/Vue.git"
-    #   tagline: Vue component for online shop.
+# - title: Vue from scratch
+#   link: "https://github.com/senaxor/Vue.git"
+#   tagline: Vue component for online shop.
 
 # oss:
 #   title: OSS Contributions
 #   intro: >
 #     list of my open source software contributions.
 #   contributions:
-    # - title: Natas
-    #   link: "https://github.com/senaxor/natas"
-    #   tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
+# - title: Natas
+#   link: "https://github.com/senaxor/natas"
+#   tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
 
-    # - title: Sharif EE Department Website
-    #   link: "https://github.com/senaxor/web_site"
-    #   tagline: website for Sharif EE department profs.
+# - title: Sharif EE Department Website
+#   link: "https://github.com/senaxor/web_site"
+#   tagline: website for Sharif EE department profs.
 
-    # - title: Sharif Ranking
-    #   link: "https://github.com/senaxor/Sharif-Ranking"
-    #   tagline: website created for sharif students to check thier ranking.
+# - title: Sharif Ranking
+#   link: "https://github.com/senaxor/Sharif-Ranking"
+#   tagline: website created for sharif students to check thier ranking.
 
-    # - title: SoundSeyf
-    #   link: "https://github.com/AisDisappeared/soundseyf.git"
-    #   tagline: Music Website
+# - title: SoundSeyf
+#   link: "https://github.com/AisDisappeared/soundseyf.git"
+#   tagline: Music Website
 
 publications:
   title: Publications
@@ -155,25 +165,23 @@ publications:
   #   You can see the list of articles in which I collaborated below.
   papers:
     - title: Investigating causal relationships between cardiovascular signals using effective connectivity assessment measures
-      link: "https://ieeexplore.ieee.org/document/10488641/"
+      # link: "https://ieeexplore.ieee.org/document/10488641/"
       authors: <strong>Shaghayegh Bahrami</strong>, <strong>Mohammad Bagher Shamsollahi</strong>, <strong>Vahid Ansari</strong>
       conference: ICMBE at Sharif University - 2023
 
 skills:
-  title: Soft Skills 
+  title: Soft Skills
   # &amp; Proficiency
 
   toolset:
-    
-
     - name: Team Working
-      level: 85%
+      level: 100%
 
     - name: Time Management
-      level: 80%
+      level: 100%
 
-    - name: Flexibility
-      level: 80%
+    # - name: Flexibility
+    #   level: 80%
 
     # - name: Ruby on Rails
     #   level: 93%
@@ -192,6 +200,5 @@ skills:
 
     # - name: Linux & Shell scripting
     #   level: 99%
-
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://ee.sharif.edu/~vahid.ansari" target="_blank" rel="nofollow">Senaxor</a>
