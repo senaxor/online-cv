@@ -169,16 +169,16 @@ publications:
       authors: <strong>Shaghayegh Bahrami</strong>, <strong>Mohammad Bagher Shamsollahi</strong>, <strong>Vahid Ansari</strong>
       conference: ICMBE at Sharif University - 2023
 
-skills:
-  title: Soft Skills
-  # &amp; Proficiency
+# skills:
+#   title: Soft Skills
+#   # &amp; Proficiency
 
-  toolset:
-    - name: Team Working
-      # level: 100%
+#   toolset:
+#     - name: Team Working
+#       level: 100%
 
-    - name: Time Management
-      # level: 100%
+#     - name: Time Management
+#       level: 100%
 
     # - name: Flexibility
     #   level: 80%
