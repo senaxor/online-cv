@@ -69,28 +69,28 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Junior MLOps Engineer
-      # time: 2022 - 20
-      company: <a href="https://noraya.ir/">Noraya</a> #| 2022–Present
-      details: |
-        Collaborated with data science teams to provide feature-ready datasets and assisted in deploying ML workflows to production.
-          - fetching real-time data from Twitter.
-          - Python, Pyspark, ETL/ELT Pipelines, LLMs(Ollama, OpenAI), Airflow, AWS
+    # - role: Junior MLOps Engineer
+    #   # time: 2022 - 20
+    #   company: <a href="https://noraya.ir/">Noraya</a> #| 2022–Present
+    #   details: |
+    #     Collaborated with data science teams to provide feature-ready datasets and assisted in deploying ML workflows to production.
+    #       - fetching real-time data from Twitter.
+    #       - Python, Pyspark, ETL/ELT Pipelines, LLMs(Ollama, OpenAI), Airflow, AWS
 
-    - role: Software Engineer
-      # time: 2022 - 20
-      company: <a href="https://tagmond.com/">Tagmond</a> (E-commerce Platform) #| 2022–Present
-      details: |
-        Develop and maintain web applications for an e-commerce platform.
-          - Implement frontend/backend solutions using modern frameworks.
-          - Golang, Docker, PostgreSQL, Redis, AWS
+    # - role: Software Engineer
+    #   # time: 2022 - 20
+    #   company: <a href="https://tagmond.com/">Tagmond</a> (E-commerce Platform) #| 2022–Present
+    #   details: |
+    #     Develop and maintain web applications for an e-commerce platform.
+    #       - Implement frontend/backend solutions using modern frameworks.
+    #       - Golang, Docker, PostgreSQL, Redis, AWS
 
-    - role: Backend Developer
+    - role: System Admin
       # time: 2022 - 20
       company: Arianalabs #| 2022–Present
       details: |
-        Contributed to the development and maintenance of enterprise mobile and web applications for MTN Irancell, one of the largest telecom operators in the Middle East.
-          - Ruby on Rails, MySQL, Elasticsearch
+        Contributed to the deployment and monitoring enterprise mobile and web applications for MTN Irancell, one of the largest telecom operators in the Middle East.
+          - LPIC I-II, Docker, MySQL, Network Concepts(DNS, VPN, NAT), Virtualization
 
 certifications:
   title: Certifications
@@ -121,6 +121,12 @@ certifications:
      details: |
       Anisa Ins Iran Linux House.
     
+   - name: Network +
+     details: |
+      Cisco.
+   - name: Security +
+     details: |
+      Cisco.
 
 # - name: Docker
 #   start: 2023
