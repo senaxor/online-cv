@@ -69,9 +69,17 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Junior MLOps Engineer
+      # time: 2022 - 20
+      company: <a href="https://noraya.ir/">Noraya</a> #| 2022–Present
+      details: |
+        Collaborated with data science teams to provide feature-ready datasets and assisted in deploying ML workflows to production.
+          - fetching real-time data from Twitter.
+          - Python, Pyspark, ETL/ELT Pipelines, LLMs(Ollama, OpenAI), Airflow, AWS
+
     - role: Software Engineer
       # time: 2022 - 20
-      company: Tagmond (E-commerce Platform) #| 2022–Present
+      company: <a href="https://tagmond.com/">Tagmond</a> (E-commerce Platform) #| 2022–Present
       details: |
         Develop and maintain web applications for an e-commerce platform.
           - Implement frontend/backend solutions using modern frameworks.
