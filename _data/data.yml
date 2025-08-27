@@ -9,8 +9,8 @@ sidebar:
 
   # Profile information
   name: Vahid Ansari
-  tagline: Software Engineer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Penetration Tester #& Bug Bounty Hunter
+  # avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: vahid.ansari00108@gmail.com
@@ -91,6 +91,14 @@ experiences:
       details: |
         Contributed to the deployment and monitoring enterprise mobile and web applications for MTN Irancell, one of the largest telecom operators in the Middle East.
           - LPIC I-II, Docker, MySQL, Network Concepts(DNS, VPN, NAT), Virtualization
+    - role: Sharif APA Freelance Pentester
+      # time: 2022 - 20
+      company: APA Sharif #| 2022–Present
+      details: |
+        Conduct security assessments and penetration tests on web applications, APIs, and network infrastructures to identify vulnerabilities.
+        Participate in international bug bounty programs (HackerOne, Bugcrowd, etc.), reporting security flaws such as XSS, SQLi, IDOR, CSRF, authentication bypass, and misconfigurations
+          - XSS, SQLi, CSRF, OWASP Top 10, Bash, Python, Ruby
+        
 
 certifications:
   title: Certifications
