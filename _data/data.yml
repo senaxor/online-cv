@@ -60,44 +60,50 @@ sidebar:
 education:
   title: Education
   info:
-    - degree: BSc in Electrical Engineering
+    - degree: Bachelor's degree | Electrical Engineering
       university: <img src="assets/images/logo_sharif.png" height=50 weidth=50> Sharif University of Technology
       time: 2020 - June 2025
       details: |
         Ranked 94th nationally among 180,000+ entrance exam takers
+    - degree: Master's degree | Secure Telecommunications and Cryptography
+      university: <img src="assets/images/beheshti.png" height=50 weidth=50> Shahid Beheshti University
+      # time: 2020 - June 2025
+      # details: |
+      #   Ranked 94th nationally among 180,000+ entrance exam takers
+
 
 experiences:
   title: Experiences
   info:
-    # - role: Junior MLOps Engineer
-    #   # time: 2022 - 20
-    #   company: <a href="https://noraya.ir/">Noraya</a> #| 2022–Present
-    #   details: |
-    #     Collaborated with data science teams to provide feature-ready datasets and assisted in deploying ML workflows to production.
-    #       - fetching real-time data from Twitter.
-    #       - Python, Pyspark, ETL/ELT Pipelines, LLMs(Ollama, OpenAI), Airflow, AWS
-
-    # - role: Software Engineer
-    #   # time: 2022 - 20
-    #   company: <a href="https://tagmond.com/">Tagmond</a> (E-commerce Platform) #| 2022–Present
-    #   details: |
-    #     Develop and maintain web applications for an e-commerce platform.
-    #       - Implement frontend/backend solutions using modern frameworks.
-    #       - Golang, Docker, PostgreSQL, Redis, AWS
-
-    - role: System Admin
+    - role: Junior MLOps Engineer
       # time: 2022 - 20
-      company: Arianalabs #| 2022–Present
+      company: <a href="https://noraya.ir/">Noraya</a> #| 2022–Present
       details: |
-        Contributed to the deployment and monitoring enterprise mobile and web applications for MTN Irancell, one of the largest telecom operators in the Middle East.
-          - LPIC I-II, Docker, MySQL, Network Concepts(DNS, VPN, NAT), Virtualization
-    - role: Sharif APA Freelance Pentester
+        Collaborated with data science teams to provide feature-ready datasets and assisted in deploying ML workflows to production.
+          - fetching real-time data from Twitter.
+          - Python, Pyspark, ETL/ELT Pipelines, LLMs(Ollama, OpenAI), Airflow, AWS
+
+    - role: Software Engineer
       # time: 2022 - 20
-      company: APA Sharif #| 2022–Present
+      company: <a href="https://tagmond.com/">Tagmond</a> (E-commerce Platform) #| 2022–Present
       details: |
-        Conduct security assessments and penetration tests on web applications, APIs, and network infrastructures to identify vulnerabilities.
-        Participate in international bug bounty programs (HackerOne, Bugcrowd, etc.), reporting security flaws such as XSS, SQLi, IDOR, CSRF, authentication bypass, and misconfigurations
-          - XSS, SQLi, CSRF, OWASP Top 10, Bash, Python, Ruby
+        Develop and maintain web applications for an e-commerce platform.
+          - Implement frontend/backend solutions using modern frameworks.
+          - Golang, Docker, PostgreSQL, Redis, AWS
+
+    # - role: System Admin
+    #   # time: 2022 - 20
+    #   company: Arianalabs #| 2022–Present
+    #   details: |
+    #     Contributed to the deployment and monitoring enterprise mobile and web applications for MTN Irancell, one of the largest telecom operators in the Middle East.
+    #       - LPIC I-II, Docker, MySQL, Network Concepts(DNS, VPN, NAT), Virtualization
+    # - role: Sharif APA Freelance Pentester
+      # time: 2022 - 20
+      # company: APA Sharif #| 2022–Present
+      # details: |
+      #   Conduct security assessments and penetration tests on web applications, APIs, and network infrastructures to identify vulnerabilities.
+      #   Participate in international bug bounty programs (HackerOne, Bugcrowd, etc.), reporting security flaws such as XSS, SQLi, IDOR, CSRF, authentication bypass, and misconfigurations
+      #     - XSS, SQLi, CSRF, OWASP Top 10, Bash, Python, Ruby
         
 
 certifications:
@@ -132,9 +138,9 @@ certifications:
    - name: Network +
      details: |
       Cisco.
-   - name: Security +
-     details: |
-      Cisco.
+  #  - name: Security +
+  #    details: |
+  #     Cisco.
 
 # - name: Docker
 #   start: 2023
@@ -143,14 +149,14 @@ certifications:
 #   details: |
 #     Docker Course my maximillian at udemy.com.
 
-# projects:
-#   title: Projects
-#   # intro: >
-#   #   Main projects
-#   assignments:
-#     - title: Beausha
-#       link: "https://beausha.com/"
-#       tagline: "Fully functional Online shop developed by ME"
+projects:
+  title: Projects
+  # intro: >
+  #   Main projects
+  assignments:
+    - title: Beausha
+      link: "https://beausha.com/"
+      tagline: "Fully functional Online shop developed by ME"
 
 # - title: Tagmond
 #   link: "https://tagmond.com/"
@@ -160,14 +166,14 @@ certifications:
 #   link: "https://github.com/senaxor/Vue.git"
 #   tagline: Vue component for online shop.
 
-# oss:
-#   title: OSS Contributions
-#   intro: >
-#     list of my open source software contributions.
-#   contributions:
-# - title: Natas
-#   link: "https://github.com/senaxor/natas"
-#   tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
+oss:
+  title: OSS Contributions
+  # intro: >
+  #   list of my open source software contributions.
+  contributions:
+  - title: Natas
+    link: "https://github.com/senaxor/natas"
+    tagline: "bunch of scripts in python,ruby,perl,php & go for solving natas.com questions"
 
 # - title: Sharif EE Department Website
 #   link: "https://github.com/senaxor/web_site"
@@ -181,15 +187,15 @@ certifications:
 #   link: "https://github.com/AisDisappeared/soundseyf.git"
 #   tagline: Music Website
 
-publications:
-  title: Publications
-  # intro: |
-  #   You can see the list of articles in which I collaborated below.
-  papers:
-    - title: Investigating causal relationships between cardiovascular signals using effective connectivity assessment measures
-      # link: "https://ieeexplore.ieee.org/document/10488641/"
-      authors: <strong>Shaghayegh Bahrami</strong>, <strong>Mohammad Bagher Shamsollahi</strong>, <strong>Vahid Ansari</strong>
-      conference: ICMBE at Sharif University - 2023
+# publications:
+#   title: Publications
+#   # intro: |
+#   #   You can see the list of articles in which I collaborated below.
+#   papers:
+#     - title: Investigating causal relationships between cardiovascular signals using effective connectivity assessment measures
+#       # link: "https://ieeexplore.ieee.org/document/10488641/"
+#       authors: <strong>Shaghayegh Bahrami</strong>, <strong>Mohammad Bagher Shamsollahi</strong>, <strong>Vahid Ansari</strong>
+#       conference: ICMBE at Sharif University - 2023
 
 # skills:
 #   title: Soft Skills
