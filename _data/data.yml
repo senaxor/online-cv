@@ -75,13 +75,15 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Junior MLOps Engineer
+    - role: MLOps Engineer
       # time: 2022 - 20
       company: <a href="https://noraya.ir/">Noraya</a> #| 2022–Present
       details: |
         Collaborated with data science teams to provide feature-ready datasets and assisted in deploying ML workflows to production.
           - fetching real-time data from Twitter.
           - Python, Pyspark, ETL/ELT Pipelines, LLMs(Ollama, OpenAI), Airflow, AWS
+          - FastAPI, Docker, Kubernetes
+          - sqlalchemy, alembic engine, PostgreSQL, Redis
 
     - role: Software Engineer
       # time: 2022 - 20
@@ -89,7 +91,7 @@ experiences:
       details: |
         Develop and maintain web applications for an e-commerce platform.
           - Implement frontend/backend solutions using modern frameworks.
-          - Golang, Docker, PostgreSQL, Redis, AWS
+          - Rails 7, Docker, PostgreSQL, Redis, AWS
 
     # - role: System Admin
     #   # time: 2022 - 20
@@ -156,7 +158,7 @@ projects:
   assignments:
     - title: Beausha
       link: "https://beausha.com/"
-      tagline: "Fully functional Online shop developed by ME"
+      tagline: "Fully functional Online Shop written in Ruby on Rails + Nuxt Js."
 
 # - title: Tagmond
 #   link: "https://tagmond.com/"
